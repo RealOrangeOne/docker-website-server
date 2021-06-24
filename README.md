@@ -1,4 +1,4 @@
-# docker-website-server
+# Docker Website Server
 
 [![CI](https://github.com/RealOrangeOne/docker-website-server/actions/workflows/ci.yml/badge.svg)](https://github.com/RealOrangeOne/docker-website-server/actions/workflows/ci.yml)
 
