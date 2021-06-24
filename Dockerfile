@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-RUN apk add --no-cache nginx gettext
+RUN apk add --no-cache nginx gettext nginx-mod-http-brotli
 
 RUN mkdir -p /run/nginx
 
